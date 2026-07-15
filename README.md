@@ -2,6 +2,8 @@
 
 A reusable CLI + Streamlit workbench for plasmids, viral constructs, CRISPR vectors and transgenes.
 
+[Click here to view the Live Interactive Web App Demo](https://sequence-construct-qc-workbench-trial-7g4xmbmzfieikkmxhbtovf.streamlit.app/)
+
 ## Capabilities
 
 - Read FASTA and annotated GenBank references/samples
