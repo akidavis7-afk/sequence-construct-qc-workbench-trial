@@ -1,0 +1,13 @@
+LOCUS       SYNREF                   57 bp    DNA     linear   SYN 01-JAN-2026
+DEFINITION  Synthetic reference construct.
+ACCESSION   SYNREF
+VERSION     SYNREF.1
+FEATURES             Location/Qualifiers
+     promoter        1..15
+                     /label="synthetic_promoter"
+     CDS             16..60
+                     /label="reporter"
+                     /translation="MKMKMKMKMKMKMKM"
+ORIGIN
+        1 atgcatatat aaatgaaaat gaaaataaaa tgaaaataaa atgaaaataaa atgaaa
+//

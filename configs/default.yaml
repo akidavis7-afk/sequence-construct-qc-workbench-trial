@@ -1,0 +1,7 @@
+app_title: Sequence & Construct QC Workbench
+app_subtitle: Annotation-aware comparison of engineered constructs
+motifs:
+  - name: TATA_like
+    pattern: TATAWA
+  - name: polyA_signal
+    pattern: AATAAA
